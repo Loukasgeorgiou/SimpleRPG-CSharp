@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SuperAdventure\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|c:\\users\\user\\source\\repos\\superadventure\\engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\randomnumbergenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF499CEC-A32C-4996-9DD8-362EDE4FC61D}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\user\\source\\repos\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF499CEC-A32C-4996-9DD8-362EDE4FC61D}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF499CEC-A32C-4996-9DD8-362EDE4FC61D}|SuperAdventure\\SuperAdventure.csproj|c:\\users\\user\\source\\repos\\superadventure\\superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DF499CEC-A32C-4996-9DD8-362EDE4FC61D}|SuperAdventure\\SuperAdventure.csproj|solutionrelative:superadventure\\superadventure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|c:\\users\\user\\source\\repos\\superadventure\\engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\world.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\monster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\quest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\questcompletionitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\playerquest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|C:\\Users\\User\\source\\repos\\SuperAdventure\\engine\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FAE48B0-8482-4D46-A757-1FCE7C562EB6}|Engine\\Engine.csproj|solutionrelative:engine\\lootitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RandomNumberGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeDocumentMoniker": "Engine\\RandomNumberGenerator.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\RandomNumberGenerator.cs",
+              "RelativeToolTip": "Engine\\RandomNumberGenerator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T21:26:37.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SuperAdventure.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAvwC4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:21:41.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SuperAdventure.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs",
+              "RelativeDocumentMoniker": "SuperAdventure\\SuperAdventure.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\SuperAdventure\\SuperAdventure.cs [Design]",
+              "RelativeToolTip": "SuperAdventure\\SuperAdventure.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T15:16:47.839Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeDocumentMoniker": "Engine\\Item.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Item.cs",
+              "RelativeToolTip": "Engine\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:04:30.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "World.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\World.cs",
+              "RelativeDocumentMoniker": "Engine\\World.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\World.cs",
+              "RelativeToolTip": "Engine\\World.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T09:01:23.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Monster.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Monster.cs",
+              "RelativeDocumentMoniker": "Engine\\Monster.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Monster.cs",
+              "RelativeToolTip": "Engine\\Monster.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:50:51.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Quest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeDocumentMoniker": "Engine\\Quest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Quest.cs",
+              "RelativeToolTip": "Engine\\Quest.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:49:23.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeDocumentMoniker": "Engine\\Player.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\Player.cs",
+              "RelativeToolTip": "Engine\\Player.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:44:52.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QuestCompletionItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeDocumentMoniker": "Engine\\QuestCompletionItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\QuestCompletionItem.cs",
+              "RelativeToolTip": "Engine\\QuestCompletionItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:43:42.154Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerQuest.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeDocumentMoniker": "Engine\\PlayerQuest.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\PlayerQuest.cs",
+              "RelativeToolTip": "Engine\\PlayerQuest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:42:35.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LootItem.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\LootItem.cs",
+              "RelativeDocumentMoniker": "Engine\\LootItem.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SuperAdventure\\Engine\\LootItem.cs",
+              "RelativeToolTip": "Engine\\LootItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-03T08:41:44.976Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
