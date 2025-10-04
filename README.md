@@ -36,4 +36,9 @@ Visual Studio (IDE)
 
 .NET Framework
 
-Based on the tutorial by ScottLilly https://github.com/ScottLilly/SuperAdventure
+## Credits
+This project is based on "SuperAdventure" by Scott Lilly  
+Original repository: [https://github.com/ScottLilly/SuperAdventure](https://github.com/ScottLilly/SuperAdventure)  
+Licensed under the MIT License.  
+
+
